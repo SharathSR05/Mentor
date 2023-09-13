@@ -1,2 +1,3 @@
 # Mentor
-Group project which is the cloning of bootstrap website webpage it is in education section template 
+Group project which is cloning by bootstap website.
+in this project we are all work together and try to give dynamic functionality to the webpage.
